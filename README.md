@@ -1,6 +1,6 @@
 # Roblox Studio Project
 
-A modern Roblox game development template using Argon for local development workflo.
+A modern Roblox game development template using Argon for local development workflow.
 
 ## 🥀 Overview
 
